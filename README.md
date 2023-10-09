@@ -1,5 +1,6 @@
 # javaseminar2
 Work from Java seminars w/c 09/10/2023
+
 Exercise 2 = 
 Using the Java you have learned in the first 3 lectures write a program to ask a user for 2 numbers (use the Scanner class) and print out the sum of the two numbers. Place breakpoints in your code and look at how your variables behave.
 
